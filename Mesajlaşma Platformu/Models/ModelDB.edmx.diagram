@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="24a893c25ce043d6b3292697b3091eb9" Name="Diagram1">
+        <EntityTypeShape EntityType="MesajlasmaPlatformuModel.Alicilar" Width="1.5" PointX="8.5" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MesajlasmaPlatformuModel.Grup" Width="1.5" PointX="4" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MesajlasmaPlatformuModel.GrupUye" Width="1.5" PointX="4" PointY="0.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MesajlasmaPlatformuModel.Mesaj" Width="1.5" PointX="8.25" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MesajlasmaPlatformuModel.Uye" Width="1.5" PointX="6.125" PointY="0.625" IsExpanded="true" />
+        <AssociationConnector Association="MesajlasmaPlatformuModel.FK_Alicilar_ToMesaj" ManuallyRouted="false" />
+        <AssociationConnector Association="MesajlasmaPlatformuModel.FK_Alicilar_ToUye" ManuallyRouted="false" />
+        <AssociationConnector Association="MesajlasmaPlatformuModel.FK_GrupUye_ToGrup" ManuallyRouted="false" />
+        <AssociationConnector Association="MesajlasmaPlatformuModel.FK_GrupUye_ToUye" ManuallyRouted="false" />
+        <AssociationConnector Association="MesajlasmaPlatformuModel.FK_Mesaj_ToUyekimden" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

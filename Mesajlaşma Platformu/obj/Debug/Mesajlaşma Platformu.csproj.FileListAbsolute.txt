@@ -1,0 +1,98 @@
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\ApplicationInsights.config
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\roslyn\csc.exe
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\roslyn\vbc.exe
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\roslyn\VBCSCompiler.exe
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Mesajlaşma Platformu.dll.config
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Mesajlaşma Platformu.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Mesajlaşma Platformu.pdb
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\EntityFramework.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\EntityFramework.SqlServer.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Microsoft.AI.Web.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Microsoft.ApplicationInsights.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Newtonsoft.Json.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\System.Net.Http.Formatting.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\System.Web.Http.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\System.Web.Http.WebHost.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\EntityFramework.xml
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\EntityFramework.SqlServer.xml
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Microsoft.AI.Web.xml
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Microsoft.ApplicationInsights.xml
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Newtonsoft.Json.xml
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\System.Net.Http.Formatting.xml
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\System.Web.Http.xml
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\System.Web.Http.WebHost.xml
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\obj\Debug\Mesajlaşma Platformu.csprojResolveAssemblyReference.cache
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\obj\Debug\Mesajlaşma Platformu.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\obj\Debug\Mesajlaşma Platformu.pdb
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\Swashbuckle.Core.dll
+C:\Users\BAHA BARUT\Desktop\Mesajlaşma Platformu\Mesajlaşma Platformu\bin\WebActivatorEx.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\ApplicationInsights.config
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\roslyn\csc.exe
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\roslyn\vbc.exe
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\roslyn\VBCSCompiler.exe
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Mesajlaşma Platformu.dll.config
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Mesajlaşma Platformu.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Mesajlaşma Platformu.pdb
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\EntityFramework.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\EntityFramework.SqlServer.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Microsoft.AI.Web.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Newtonsoft.Json.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Swashbuckle.Core.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\System.Net.Http.Formatting.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\System.Web.Http.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\System.Web.Http.WebHost.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\WebActivatorEx.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\EntityFramework.xml
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\EntityFramework.SqlServer.xml
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Microsoft.AI.Web.xml
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\Newtonsoft.Json.xml
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\System.Net.Http.Formatting.xml
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\System.Web.Http.xml
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\bin\System.Web.Http.WebHost.xml
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\obj\Debug\Mesajlaşma Platformu.csproj.AssemblyReference.cache
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\obj\Debug\Mesajlaşma Platformu.csproj.CoreCompileInputs.cache
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\obj\Debug\Mesajlaşma Platformu.csproj.CopyComplete
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\obj\Debug\Mesajlaşma Platformu.dll
+C:\Users\tufan\Downloads\Mesajlaşma Platformu-burak\Mesajlaşma Platformu-burak\Mesajlaşma Platformu\obj\Debug\Mesajlaşma Platformu.pdb
